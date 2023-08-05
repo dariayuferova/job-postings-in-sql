@@ -7,6 +7,7 @@ In his data collection process Luke uses SerpAPI to pull job postings from Googl
 
 When examining Luke's results, I was surprised to see SQL (not Python!) at the very top of the skills for Data Analysts. So it only made sense for me to try and process this data using the employers' favorite tool!
 
+### The Repository's Contents
 The purpose of this project is mainly to practice my SQL skills, thus, this repository includes Jupyter Notebook file with step-by-step analysis in SQL.   
 The Python code used is, again, mostly [Luke's](https://github.com/lukebarousse) intellectual property, I just tweaked a couple of things and exported a CSV file with a few columns I needed.  
 jobs_sql.csv - file I exported using Python code.  
