@@ -9,6 +9,5 @@ When examining Luke's results, I was surprised to see SQL (not Python!) at the v
 
 The purpose of this project is mainly to practice my SQL skills, thus, this repository includes Jupyter Notebook file with step-by-step analysis in SQL.   
 The Python code used is, again, mostly [Luke's](https://github.com/lukebarousse) intellectual property, I just tweaked a couple of things and exported a CSV file with a few columns I needed.  
-gsearch_jobs.csv - dataset I downloaded from [Luke's Kaggle](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search?datasetId=2614070&searchQuery=Data+Analyst+Skill+Analysis).  
 jobs_sql.csv - file I exported using Python code.  
 states_abbr_name.csv, states_coord.csv, states_gdp.csv - files I used for visualizations.  
